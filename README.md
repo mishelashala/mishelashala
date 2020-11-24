@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Michell Ayala and I do JavaScripts for fun and profit :)
 
@@ -9,9 +9,8 @@ I have a programming-related YouTube channel (you can find it [here](https://www
   <img align="center" src='https://github-readme-stats.vercel.app/api?username=mishelashala&hide=issues,contribs'>
 </div>
 
----
-
 ## Tech I have experience with
+
 <p align="center">
   <span align="center" class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
