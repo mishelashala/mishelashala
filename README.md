@@ -9,7 +9,7 @@ I have a programming-related YouTube channel (you can find it [here](https://www
   <img align="center" src='https://github-readme-stats.vercel.app/api?username=mishelashala&hide=issues,contribs'>
 </div>
 
-## Tech I have experience with
+---
 
 <p align="center">
   <span align="center" class="d-flex">
