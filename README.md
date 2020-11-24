@@ -7,11 +7,11 @@ I have a programming-related YouTube channel (you can find it [here](https://www
 <div>
   <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=mishelashala&hide=html&layout=compact'>
   <img align="center" src='https://github-readme-stats.vercel.app/api?username=mishelashala&hide=issues,contribs'>
-  
-
-  *NOTE: Top languages do not indicate my skill level, it's a GitHub metric of which languages I have the most code on Github*
 </div>
 
+---
+
+## Tech I have experience with
 <p align="center">
   <span align="center" class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
