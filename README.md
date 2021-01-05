@@ -21,7 +21,6 @@ I have a programming-related YouTube channel (you can find it [here](https://www
     <img title="React" alt="React" height=40 src="https://cdn.worldvectorlogo.com/logos/react.svg">
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest-card-run.svg">
-    <img title="Webpack" alt="Webpack" height=40 src="https://webpack.js.org/85ba630cf0c5f29ae3e3.svg">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </span>
 </p>
