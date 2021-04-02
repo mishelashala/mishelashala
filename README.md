@@ -2,7 +2,7 @@
 
 I'm Michell Ayala and I do JavaScripts for fun and profit :)
 
-I have a programming-related YouTube channel (you can find it [here](https://www.youtube.com/channel/UCBXo5FFDCtNoddUOqZuWX7w))
+I have a programming-related [YouTube channel](https://www.youtube.com/channel/UCBXo5FFDCtNoddUOqZuWX7w)
 
 <div>
   <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=mishelashala&hide=html&layout=compact'>
