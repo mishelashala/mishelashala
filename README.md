@@ -8,3 +8,5 @@ I have a programming-related [YouTube channel](https://www.youtube.com/channel/U
   <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=mishelashala&hide=html&layout=compact'>
   <img align="center" src='https://github-readme-stats.vercel.app/api?username=mishelashala&hide=issues,contribs'>
 </div>
+
+![mishelashala Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mishelashala
